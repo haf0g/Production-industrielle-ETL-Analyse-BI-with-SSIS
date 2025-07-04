@@ -29,7 +29,7 @@ Projet réalisé dans le cadre du module Business Intelligence (CI-ISBD/S8) à l
   - Statistiques industrielles (2006-2012).
   - Données pluviométriques (1991-2015).
 
-> *Data Flow Task : Staging_industrielles*
+
 ![image](https://github.com/user-attachments/assets/f89b17fc-41fa-46dd-ac34-d7c2ef782a42)
 
 ### Étapes Clés

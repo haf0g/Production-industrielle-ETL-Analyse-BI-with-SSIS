@@ -29,6 +29,7 @@ Projet réalisé dans le cadre du module Business Intelligence (CI-ISBD/S8) à l
   - Statistiques industrielles (2006-2012).
   - Données pluviométriques (1991-2015).
 
+> *Data Flow Task : Staging_industrielles*
 ![image](https://github.com/user-attachments/assets/f89b17fc-41fa-46dd-ac34-d7c2ef782a42)
 
 ### Étapes Clés
@@ -40,6 +41,9 @@ Projet réalisé dans le cadre du module Business Intelligence (CI-ISBD/S8) à l
 3. **Alimentation des faits** :
    - Jointure des données industrielles et pluviométriques via `id_temps`.
 
+![image](https://github.com/user-attachments/assets/60bb4eb3-338f-4dd1-85c6-4b79b87a0cbf)
+
+
 ---
 
 ## Visualisation Power BI
@@ -50,6 +54,9 @@ Projet réalisé dans le cadre du module Business Intelligence (CI-ISBD/S8) à l
 - **Graphiques clés** :
   - Courbes temporelles.
   - Matrices comparatives (ex: Valeur moyenne par année et situation pluviométrique).
+
+![image](https://github.com/user-attachments/assets/dd446ff9-106e-4e1b-ae5b-12fe81739196)
+
 
 ### Exemple d'Insight
 - Les années pluvieuses (ex: 2009-2011) corrèlent avec une hausse des investissements dans le secteur "Électricité et électronique".

@@ -19,6 +19,8 @@ Projet réalisé dans le cadre du module Business Intelligence (CI-ISBD/S8) à l
 ### Table de Faits
 - **`fact_production`** : Mesures liées aux indicateurs, avec clés étrangères vers les dimensions.
 
+![image](https://github.com/user-attachments/assets/ead40115-ee16-407b-b5aa-9a75435610d4)
+
 ---
 
 ## Processus ETL (SSIS)
@@ -26,6 +28,8 @@ Projet réalisé dans le cadre du module Business Intelligence (CI-ISBD/S8) à l
 - **Fichiers Excel** : 
   - Statistiques industrielles (2006-2012).
   - Données pluviométriques (1991-2015).
+
+![image](https://github.com/user-attachments/assets/f89b17fc-41fa-46dd-ac34-d7c2ef782a42)
 
 ### Étapes Clés
 1. **Préparation des données** :
